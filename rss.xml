@@ -4,7 +4,7 @@
         <description><![CDATA[EatFit Batam Healthy Catering]]></description>
         <link>https://thegrid.ai/eatfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 05:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 18:32:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eatfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to the webhome of EatFit Batam]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/eatfit/welcome-to-the-webhome-of-eatfit-batam/index.html</link>
             <guid isPermaLink="false">ed42f90d-abf6-4126-95c7-9420ed108a88</guid>
             <pubDate>Sat, 05 Mar 2016 05:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3987711-595a-4282-8ad1-c6ffd1aab6d6.jpg">]]></description>
+            <link>https://thegrid.ai/eatfit/ff4a8ec0-5169-41b1-ad70-2a76044c0c4f/index.html</link>
+            <guid isPermaLink="false">ff4a8ec0-5169-41b1-ad70-2a76044c0c4f</guid>
+            <pubDate>Sat, 05 Mar 2016 18:31:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
